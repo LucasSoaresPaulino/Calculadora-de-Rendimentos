@@ -1,0 +1,10 @@
+D:\Documentos\Estudo\Curso Visual Studio Aplicado\WindowsForm\Calculadora de rendimentos\bin\Debug\Calculadora de rendimentos.exe.config
+D:\Documentos\Estudo\Curso Visual Studio Aplicado\WindowsForm\Calculadora de rendimentos\bin\Debug\Calculadora de rendimentos.exe
+D:\Documentos\Estudo\Curso Visual Studio Aplicado\WindowsForm\Calculadora de rendimentos\bin\Debug\Calculadora de rendimentos.pdb
+D:\Documentos\Estudo\Curso Visual Studio Aplicado\WindowsForm\Calculadora de rendimentos\obj\Debug\Calculadora de rendimentos.csproj.AssemblyReference.cache
+D:\Documentos\Estudo\Curso Visual Studio Aplicado\WindowsForm\Calculadora de rendimentos\obj\Debug\Calculadora_de_rendimentos.design.resources
+D:\Documentos\Estudo\Curso Visual Studio Aplicado\WindowsForm\Calculadora de rendimentos\obj\Debug\Calculadora_de_rendimentos.Properties.Resources.resources
+D:\Documentos\Estudo\Curso Visual Studio Aplicado\WindowsForm\Calculadora de rendimentos\obj\Debug\Calculadora de rendimentos.csproj.GenerateResource.cache
+D:\Documentos\Estudo\Curso Visual Studio Aplicado\WindowsForm\Calculadora de rendimentos\obj\Debug\Calculadora de rendimentos.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudo\Curso Visual Studio Aplicado\WindowsForm\Calculadora de rendimentos\obj\Debug\Calculadora de rendimentos.exe
+D:\Documentos\Estudo\Curso Visual Studio Aplicado\WindowsForm\Calculadora de rendimentos\obj\Debug\Calculadora de rendimentos.pdb
